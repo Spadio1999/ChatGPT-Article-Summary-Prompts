@@ -1,5 +1,9 @@
 # ChatGPT论文中文总结提示词（ChatGPT-Paper-Summary-Prompts）
+
 🌹开源一个我自己用来做论文初筛，利用ChatGPT 的Consensus，做论文总结的提示词。以我的经营学专业和我的研究课题为例。以下为效果图！
+
+⭐️参考了：https://twitter.com/genie0309/status/1775218832883552408
+
 This is a self-use, prompt word for a dissertation summary using Consensus(ChatGPT). Using my own management studies major and research topic as an example.
 
 
