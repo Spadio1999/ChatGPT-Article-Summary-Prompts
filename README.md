@@ -4,8 +4,6 @@
 
 ⭐️参考了：https://twitter.com/genie0309/status/1775218832883552408
 
-This is a self-use, prompt word for a dissertation summary using Consensus(ChatGPT). Using my own management studies major and research topic as an example.
-
 
 以下为实际效果：
 <img width="1129" alt="image" src="https://github.com/Spadio1999/ChatGPT-Paper-Summary-Prompts/assets/104052734/2f1fe839-0b9f-4635-b983-93d8270d1b03">
