@@ -1,6 +1,7 @@
 # 用于论文初筛的ChatGPT论文中文总结提示词（ChatGPT-Paper-Summary-Prompts）
 
 🌹开源一个我自己用来做论文初筛，利用ChatGPT 的Consensus，做论文总结的提示词。以我的经营学专业和我的研究课题为例。
+
 提示词本文：
 https://github.com/Spadio1999/ChatGPT-Paper-Summary-Prompts/blob/main/ChatGPT%E8%AE%BA%E6%96%87%E6%80%BB%E7%BB%93%E6%8F%90%E7%A4%BA%E8%AF%8D
 
