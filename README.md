@@ -1,4 +1,4 @@
-# 用于论文初筛的ChatGPT论文中文总结提示词（ChatGPT-Paper-Summary-Prompts）
+# 用于论文初筛的ChatGPT论文中文总结提示词（ChatGPT-Article-Summary-Prompts）
 
 🌹开源一个我自己用来做论文初筛，利用ChatGPT 商店中的Consensus，做论文总结的提示词。以我的经营学专业和我的研究课题为例。
 
